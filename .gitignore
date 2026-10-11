@@ -2,3 +2,6 @@ result/
 __pycache__/
 .matplotlib/
 .DS_Store
+.venv/
+.env
+.env.*
